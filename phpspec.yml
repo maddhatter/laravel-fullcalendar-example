@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CalendarDemo
+        psr4_prefix: CalendarDemo
+        src_path: app
